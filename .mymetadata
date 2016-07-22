@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="FalMarket"
+  id="myeclipse.1464172991947"
+  context-root="/FalMarket"
+  j2ee-spec="6.0"
+  archive="FalMarket.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
